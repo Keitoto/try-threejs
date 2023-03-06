@@ -17,7 +17,7 @@ import '@/index.css';
 const App = () => {
   return (
     <BrowserRouter>
-      <div className="relative z-0 bg-primary bg-no-repeat bg-center">
+      <div className="relative z-1 bg-primary bg-no-repeat bg-center">
         <Navbar />
         <Hero />
       </div>
