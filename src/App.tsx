@@ -12,6 +12,8 @@ import {
   StarsCanvas,
 } from '@/components';
 
+import '@/index.css';
+
 const App = () => {
   return (
     <BrowserRouter>
